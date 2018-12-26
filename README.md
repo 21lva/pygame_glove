@@ -6,7 +6,7 @@ sklearn
 numpy
 pygame
 
-###An image
+### An image
 ![Screenshot](./scr.png)
 ####
 
